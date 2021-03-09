@@ -108,7 +108,7 @@ else
 fi
 
 ############################## 宠汪汪群助力 ##############################
-##ls /jd/config/help_pet_run.sh && bash /jd/config/help_pet_run.sh || wget -O /jd/config/help_pet_run.sh http://47.100.61.159:81/help_pet_run.sh
+ls /jd/config/help_pet_run.sh && bash /jd/config/help_pet_run.sh || wget -O /jd/config/help_pet_run.sh http://47.100.61.159:81/help_pet_run.sh
 
 ############################## 同步群助力脚本 ##############################
 bash /jd/config/sharecode.sh
